@@ -29,8 +29,8 @@ class App {
  
     this.upgrades = {
       str:   {base: 0.1, factor: 2,  costBase: 30,   costFactor: 1.75},
-      tSize: {base: 4,   factor: 2,  costBase: 300,  costFactor: 2.5},
-      oSize: {base: 2,   factor: 1,  costBase: 20,   costFactor: 2}
+      tSize: {base: 4,   factor: 2,  costBase: 300,  costFactor: 1.8},
+      oSize: {base: 2,   factor: 1,  costBase: 20,   costFactor: 1.1}
     };
 
     this.milestones = {
